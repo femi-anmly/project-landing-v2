@@ -104,7 +104,10 @@ a {
     border-color: white;
     border-style: solid;
     padding: 4px 8px;
+    width: 120px;
+    cursor: pointer;
 }
+
 
 .hook .button {
     align-self: self-start;
@@ -184,7 +187,7 @@ a {
 }
 .ad .container {
     background-color: #3882F6;
-    width: 800px;
+    width: 60%;
     height: 180px;
     border-radius: 30px;
     flex-direction: row;

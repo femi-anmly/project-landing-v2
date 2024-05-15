@@ -1,0 +1,6 @@
+Steps
+
+1. Create each section of the website I will create in HTML. 
+2. Create necessary CSS section by section. 
+
+Fix padding before continuing.

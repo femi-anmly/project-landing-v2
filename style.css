@@ -158,12 +158,14 @@ a {
     align-items: center;
     background-color: #E5E7EB;
     justify-content: center;
+    gap: 12px;
 }
 
 .quote .words {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
+    text-align: center;
 }
 
 .quote .speaker {

@@ -17,6 +17,7 @@ body{
     justify-content: space-evenly;
     align-items: center;
     background-color: #1F2937;
+    padding: 8px;
 }
 
 .footer {
